@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wendel</h1>
+<h1 align="center">Hello World, I'm Wendel!</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Embraer**
