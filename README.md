@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Embraer**
 
-- 🌱 I’m currently learning **Angular and NGRX**
+- 🌱 I’m currently learning **Best practices to Python**
 
 - 📫 How to reach me **wendelsilverio@gmail.com**
 
